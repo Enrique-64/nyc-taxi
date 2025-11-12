@@ -195,7 +195,7 @@ cd nyc-taxi-analysis
 pip install -r requirements.txt
 ```
 
-3. **Ejecutar notebooks en orden secuencial** (1 → 2 → 3 → ... → 10)
+3. **Ejecutar notebooks en orden secuencial** (1 → 2 → 3 → ... → 9)
    - Todos los notebooks son obligatorios
    - Deben ejecutarse en el orden indicado
    - Recomendado: Google Colab
