@@ -205,7 +205,7 @@ pip install -r requirements.txt
 **NYC Taxi & Limousine Commission (TLC)**
 - URL: `https://d37ci6vzurychx.cloudfront.net/trip-data/`
 - Formato: Parquet
-- Volumen: ~9 millones de registros/mes
+- Volumen: ~3 millones de registros/mes
 - Período analizado: Enero-Marzo 2023
 
 ## 📈 Resultados
