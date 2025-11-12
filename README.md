@@ -4,7 +4,7 @@ Estudio exhaustivo del dataset NYC Taxi Trip Records mediante arquitectura Medal
 
 ## 📊 Descripción del Proyecto
 
-Proyecto de análisis de datos profesional que procesa más de 9 millones de registros mensuales de viajes en taxi de Nueva York. Implementa pipeline completo de ingesta, validación, transformación y análisis exploratorio siguiendo principios de Data Lakehouse.
+Proyecto de análisis de datos profesional que procesa más de 3 millones de registros mensuales de viajes en taxi de Nueva York. Implementa pipeline completo de ingesta, validación, transformación y análisis exploratorio siguiendo principios de Data Lakehouse.
 
 **Alcance actual**: Bronze Layer → Silver Layer → preparación para Gold Layer (sin implementación de objetivos de negocio)
 
