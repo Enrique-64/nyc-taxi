@@ -58,35 +58,35 @@ Proyecto de análisis de datos profesional que procesa más de 9 millones de reg
 - Generación de metadatos y logs
 
 ### 3. Bronze → Silver - Exploración
-**`2023-01_3_v4_Bronze_to_Silver.ipynb`**
+**`3_2023-01_3_v4_Bronze_to_Silver.ipynb`**
 - Estudio detallado de variables (dataset Enero 2023)
 - Visualizaciones exploratorias
 - Análisis de distribuciones
 
 ### 4. Capa Silver (Paso 1, Fase 1) - Limpieza
-**`2023-01_4_1_F1_v5_Silver_Preparar_Datos.ipynb`**
+**`4_2023-01_4_1_F1_v5_Silver_Preparar_Datos.ipynb`**
 - Depuración de nulos, duplicados y valores inconsistentes
 - Homogeneización de tipos, unidades y formatos
 - Tratamiento de valores atípicos
 
 ### 5. Capa Silver (Paso 1, Fase 2) - Feature Engineering
-**`2023-01_4_1_F2_v5_Silver_Preparar_Datos.ipynb`**
+**`5_2023-01_4_1_F2_v5_Silver_Preparar_Datos.ipynb`**
 - Creación de variables derivadas
 - Preparación para análisis de correlación
 
 ### 6. Capa Silver (Paso 2, Fase 1) - Análisis Inicial
-**`2023-01_4_2_F1_v6_Silver_to_Gold.ipynb`**
+**`6_2023-01_4_2_F1_v6_Silver_to_Gold.ipynb`**
 - Análisis de correlaciones base
 
 ### 7. Capa Silver (Paso 2, Fase 2) - Grupos A y B
-**`2023-01_4_2_F2_v9_Silver_to_Gold.ipynb`**
+**`7_2023-01_4_2_F2_v9_Silver_to_Gold.ipynb`**
 - **Grupo A**: Variables con relación matemática directa
 - **Grupo B**: Redundancia temporal
 - Visualizaciones de clusters
 - Generación de archivos JSON y Parquet por subgrupo
 
 ### 8. Capa Silver (Paso 2, Fase 3) - Grupos C (1-5)
-**`2023-01_4_2_F3_v9_Silver_to_Gold.ipynb`**
+**`8_2023-01_4_2_F3_v9_Silver_to_Gold.ipynb`**
 - **Grupo C-1**: Ubicación y tarifas
 - **Grupo C-2**: Propinas
 - **Grupo C-3**: Variables de servicio
@@ -96,7 +96,7 @@ Proyecto de análisis de datos profesional que procesa más de 9 millones de reg
 - Generación de archivos JSON y Parquet por subgrupo
 
 ### 9. Capa Silver (Paso 2, Fase 4) - Grupos C (6-7)
-**`2023-01_4_2_F4_v9_Silver_to_Gold.ipynb`**
+**`9_2023-01_4_2_F4_v9_Silver_to_Gold.ipynb`**
 - **Grupo C-6**: Correlaciones temporales-servicio
 - **Grupo C-7**: Correlaciones costo-distancia/duración
 - Visualizaciones de clusters
